@@ -19,10 +19,9 @@ Verificar la ruta del script para interactura con los diferentes programas.
 Abrir el archivo index.html con un navegador web.
 
 ## 📂 Estructura del Proyecto
-├── 📁 css/
-├── 📁 js/
-├── 📄 index.html  
-├── 📄 README.md  
+- `/js`: Ejercicios de JavaScript
+- `/css`: Estilos del proyecto
+- `/pseInt`: Ejercicios de PseInt
 
 ## 📥 Clonar el Repositorio
 Para clonar este proyecto en tu máquina local, ejecuta el siguiente comando en tu terminal:
